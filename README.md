@@ -1,3 +1,7 @@
+My firts Next.js app following "Let’s Create: Portfolio App With Next.js, Strapi Headless CMS and Bootstrap 5" article (https://medium.com/swlh/lets-create-portfolio-app-with-next-js-strapi-headless-cms-and-bootstrap-5-fac7d9578bbd) - Autor: Stephan Bakkelund Valois
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
